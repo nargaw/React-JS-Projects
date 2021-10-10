@@ -5,7 +5,7 @@
 //5. style
 //6. check
 
-const API = 'https://raw.githubusercontent.com/nargaw/JS/main/office.json';
+const API = 'https://raw.githubusercontent.com/nargaw/React-JS-Projects/main/The-Office-Random-Quote-Gen-main/office.json';
 
 class App extends React.Component {
   state = {
